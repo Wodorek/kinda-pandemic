@@ -35,3 +35,21 @@ text = "Outbreaks"
 
 [node name="OutbreakTrack" type="Path2D" parent="."]
 curve = SubResource( 2 )
+
+[node name="Button" type="Button" parent="."]
+anchor_left = 0.5
+anchor_top = 1.0
+anchor_right = 0.5
+anchor_bottom = 1.0
+margin_left = -40.0
+margin_top = -87.0
+margin_right = 47.0
+margin_bottom = -49.0
+text = "Progress"
+
+[node name="Marker" type="Polygon2D" parent="."]
+position = Vector2( 65, 65 )
+color = Color( 0.0705882, 0.25098, 0.0588235, 1 )
+polygon = PoolVector2Array( 0, -24, 24, 0, 0, 24, -24, 0 )
+
+[connection signal="pressed" from="Button" to="." method="_on_Button_pressed"]
