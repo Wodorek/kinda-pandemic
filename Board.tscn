@@ -8,7 +8,7 @@ position = Vector2( 960, 540 )
 
 [node name="ParallaxBackground" type="ParallaxBackground" parent="."]
 
-[node name="TextureRect" type="TextureRect" parent="ParallaxBackground"]
+[node name="BackgroundImage" type="TextureRect" parent="ParallaxBackground"]
 margin_right = 1920.0
 margin_bottom = 1080.0
 texture = ExtResource( 1 )
