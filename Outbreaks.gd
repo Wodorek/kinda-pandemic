@@ -1,8 +1,7 @@
 extends Control
 
 #find the number programatically later?
-
-var marker_offset:Vector2 = Vector2(5,8)
+var marker_offset:Vector2 = Vector2(5,9)
 var marker_idx:int = 0
 
 func _ready():
