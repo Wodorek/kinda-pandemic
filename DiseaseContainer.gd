@@ -1,6 +1,9 @@
 extends Control
 
 var cured: bool = false
+export var vial_color:Color
+
+
 
 func _ready():
-	$Label.text = "cured" if cured else "not cured"
+	$Vial.set_color(vial_color)
