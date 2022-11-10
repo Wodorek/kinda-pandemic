@@ -1,0 +1,21 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://DiseaseContainer.tscn" type="PackedScene" id=2]
+
+[node name="CuredTrack" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="Yellow" parent="." instance=ExtResource( 2 )]
+
+[node name="Red" parent="." instance=ExtResource( 2 )]
+margin_left = 64.0
+margin_right = -1792.0
+
+[node name="Blue" parent="." instance=ExtResource( 2 )]
+margin_left = 128.0
+margin_right = -1728.0
+
+[node name="Black" parent="." instance=ExtResource( 2 )]
+margin_left = 192.0
+margin_right = -1664.0
