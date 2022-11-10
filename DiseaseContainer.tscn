@@ -17,3 +17,6 @@ scale = Vector2( 0.857143, 1 )
 color = Color( 0.305882, 0.803922, 0.12549, 1 )
 antialiased = true
 polygon = PoolVector2Array( 8, 0, 56, 0, 56, -16, 40, -24, 40, -36, 56, -36, 56, -48, 28.9729, -48, 0, -48, 0, -36, 16, -36, 16, -24, 0, -16, 0, 0 )
+
+[node name="Underline" type="Polygon2D" parent="."]
+polygon = PoolVector2Array( 8, 104, 72, 104, 72, 112, 8, 112 )
