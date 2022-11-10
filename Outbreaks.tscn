@@ -48,8 +48,9 @@ margin_bottom = -49.0
 text = "Progress"
 
 [node name="Marker" type="Polygon2D" parent="."]
-position = Vector2( 65, 65 )
+position = Vector2( 64, 64 )
+scale = Vector2( 1.2, 1.2 )
 color = Color( 0.0705882, 0.25098, 0.0588235, 1 )
-polygon = PoolVector2Array( 0, -24, 24, 0, 0, 24, -24, 0 )
+polygon = PoolVector2Array( 0, -24, 8, -8, 24, 0, 8, 8, 0, 24, -8, 8, -24, 0, -8, -8 )
 
 [connection signal="pressed" from="Button" to="." method="_on_Button_pressed"]
