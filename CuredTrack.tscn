@@ -7,15 +7,29 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 
 [node name="Yellow" parent="." instance=ExtResource( 2 )]
+margin_left = 0.0
+margin_top = 0.0
+margin_right = -1840.0
+margin_bottom = -960.0
+vial_color = Color( 0.913725, 0.901961, 0.0352941, 1 )
 
 [node name="Red" parent="." instance=ExtResource( 2 )]
-margin_left = 64.0
-margin_right = -1792.0
+margin_left = 80.0
+margin_top = 0.0
+margin_right = -1760.0
+margin_bottom = -960.0
+vial_color = Color( 0.890196, 0.0156863, 0.0156863, 1 )
 
 [node name="Blue" parent="." instance=ExtResource( 2 )]
-margin_left = 128.0
-margin_right = -1728.0
+margin_left = 160.0
+margin_top = 0.0
+margin_right = -1680.0
+margin_bottom = -960.0
+vial_color = Color( 0.0313726, 0.152941, 0.945098, 1 )
 
 [node name="Black" parent="." instance=ExtResource( 2 )]
-margin_left = 192.0
-margin_right = -1664.0
+margin_left = 240.0
+margin_top = 0.0
+margin_right = -1600.0
+margin_bottom = -960.0
+vial_color = Color( 0.321569, 0.290196, 0.290196, 1 )
