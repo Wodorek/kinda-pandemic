@@ -21,7 +21,7 @@ margin_right = -775.0
 margin_bottom = 536.0
 
 [node name="CuredTrack" parent="." instance=ExtResource( 3 )]
-margin_left = -290.0
-margin_top = 519.0
-margin_right = -290.0
-margin_bottom = 519.0
+margin_left = -363.0
+margin_top = 394.0
+margin_right = -44.0
+margin_bottom = 523.0
