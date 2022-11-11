@@ -10,5 +10,3 @@ func _ready():
 	$Underline.set_color(Color(vial_color))
 	
 	$Vial.hide()
-
-
