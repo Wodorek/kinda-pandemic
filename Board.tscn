@@ -4,7 +4,7 @@
 [ext_resource path="res://UI/Outbreaks.tscn" type="PackedScene" id=2]
 [ext_resource path="res://UI/CuredTrack.tscn" type="PackedScene" id=3]
 [ext_resource path="res://UI/InfectionTrack.tscn" type="PackedScene" id=4]
-[ext_resource path="res://Card/Card.tscn" type="PackedScene" id=5]
+[ext_resource path="res://Card/CardDeck.tscn" type="PackedScene" id=5]
 
 [node name="Board" type="Node2D"]
 position = Vector2( 960, 540 )
@@ -35,8 +35,15 @@ margin_top = -354.0
 margin_right = 279.0
 margin_bottom = -354.0
 
-[node name="Card" parent="." instance=ExtResource( 5 )]
-margin_left = 494.0
-margin_top = 289.0
-margin_right = 619.0
-margin_bottom = 464.0
+[node name="CardDeck" parent="." instance=ExtResource( 5 )]
+margin_left = -510.0
+margin_top = -37.0
+margin_right = -470.0
+margin_bottom = 3.0
+
+[node name="CardDeck2" parent="." instance=ExtResource( 5 )]
+margin_left = 502.0
+margin_top = -2.0
+margin_right = 542.0
+margin_bottom = 38.0
+deck_type = "infection"
