@@ -36,143 +36,143 @@ margin_top = -354.0
 margin_right = 279.0
 margin_bottom = -354.0
 
-[node name="Position2D11" type="Position2D" parent="."]
+[node name="Sydney" type="Position2D" parent="."]
 position = Vector2( 781, 337 )
 
-[node name="Position2D12" type="Position2D" parent="."]
+[node name="Manila" type="Position2D" parent="."]
 position = Vector2( 703, 98 )
 
-[node name="Position2D13" type="Position2D" parent="."]
+[node name="HoChiMinh" type="Position2D" parent="."]
 position = Vector2( 577, 106 )
 
-[node name="Position2D14" type="Position2D" parent="."]
+[node name="Jakarta" type="Position2D" parent="."]
 position = Vector2( 502, 180 )
 
-[node name="Position2D15" type="Position2D" parent="."]
+[node name="BangKok" type="Position2D" parent="."]
 position = Vector2( 499, 21 )
 
-[node name="Position2D16" type="Position2D" parent="."]
+[node name="Taipei" type="Position2D" parent="."]
 position = Vector2( 681, -51 )
 
-[node name="Position2D17" type="Position2D" parent="."]
+[node name="HongKong" type="Position2D" parent="."]
 position = Vector2( 575, -35 )
 
-[node name="Position2D18" type="Position2D" parent="."]
+[node name="Osaka" type="Position2D" parent="."]
 position = Vector2( 768, -92 )
 
-[node name="Position2D19" type="Position2D" parent="."]
+[node name="Tokyo" type="Position2D" parent="."]
 position = Vector2( 758, -178 )
 
-[node name="Position2D20" type="Position2D" parent="."]
+[node name="Seoul" type="Position2D" parent="."]
 position = Vector2( 666, -224 )
 
-[node name="Position2D21" type="Position2D" parent="."]
+[node name="Beijing" type="Position2D" parent="."]
 position = Vector2( 551, -224 )
 
-[node name="Position2D22" type="Position2D" parent="."]
+[node name="Shanghai" type="Position2D" parent="."]
 position = Vector2( 562, -137 )
 
-[node name="Position2D23" type="Position2D" parent="."]
+[node name="Kolkata" type="Position2D" parent="."]
 position = Vector2( 482, -81 )
 
-[node name="Position2D24" type="Position2D" parent="."]
+[node name="Chennai" type="Position2D" parent="."]
 position = Vector2( 411, 79 )
 
-[node name="Position2D25" type="Position2D" parent="."]
+[node name="Delhi" type="Position2D" parent="."]
 position = Vector2( 390, -111 )
 
-[node name="Position2D26" type="Position2D" parent="."]
+[node name="Mumbai" type="Position2D" parent="."]
 position = Vector2( 307, 12 )
 
-[node name="Position2D27" type="Position2D" parent="."]
+[node name="Karachi" type="Position2D" parent="."]
 position = Vector2( 291, -76 )
 
-[node name="Position2D28" type="Position2D" parent="."]
+[node name="Teheran" type="Position2D" parent="."]
 position = Vector2( 266, -190 )
 
-[node name="Position2D29" type="Position2D" parent="."]
+[node name="Riyadh" type="Position2D" parent="."]
 position = Vector2( 184, -8 )
 
-[node name="Position2D30" type="Position2D" parent="."]
+[node name="Baghdad" type="Position2D" parent="."]
 position = Vector2( 163, -116 )
 
-[node name="Position2D31" type="Position2D" parent="."]
+[node name="Moscow" type="Position2D" parent="."]
 position = Vector2( 171, -251 )
 
-[node name="Position2D32" type="Position2D" parent="."]
+[node name="StPetersburg" type="Position2D" parent="."]
 position = Vector2( 101, -335 )
 
-[node name="Position2D33" type="Position2D" parent="."]
+[node name="Milan" type="Position2D" parent="."]
 position = Vector2( 7, -254 )
 
-[node name="Position2D34" type="Position2D" parent="."]
+[node name="Essen" type="Position2D" parent="."]
 position = Vector2( -49, -314 )
 
-[node name="Position2D35" type="Position2D" parent="."]
+[node name="Paris" type="Position2D" parent="."]
 position = Vector2( -80, -226 )
 
-[node name="Position2D36" type="Position2D" parent="."]
+[node name="Johannesburg" type="Position2D" parent="."]
 position = Vector2( 72, 278 )
 
-[node name="Position2D37" type="Position2D" parent="."]
+[node name="Kinshasa" type="Position2D" parent="."]
 position = Vector2( -3, 154 )
 
-[node name="Position2D38" type="Position2D" parent="."]
+[node name="Khartoum" type="Position2D" parent="."]
 position = Vector2( 81, 47 )
 
-[node name="Position2D39" type="Position2D" parent="."]
+[node name="Cairo" type="Position2D" parent="."]
 position = Vector2( 52, -71 )
 
-[node name="Position2D40" type="Position2D" parent="."]
+[node name="Algiers" type="Position2D" parent="."]
 position = Vector2( -52, -97 )
 
-[node name="Position2D41" type="Position2D" parent="."]
+[node name="Lagos" type="Position2D" parent="."]
 position = Vector2( -92, 71 )
 
-[node name="Position2D42" type="Position2D" parent="."]
+[node name="London" type="Position2D" parent="."]
 position = Vector2( -187, -291 )
 
-[node name="Position2D43" type="Position2D" parent="."]
+[node name="Madrid" type="Position2D" parent="."]
 position = Vector2( -202, -168 )
 
-[node name="Position2D44" type="Position2D" parent="."]
+[node name="SaoPaulo" type="Position2D" parent="."]
 position = Vector2( -360, 251 )
 
-[node name="Position2D45" type="Position2D" parent="."]
+[node name="BuenosAires" type="Position2D" parent="."]
 position = Vector2( -439, 347 )
 
-[node name="Position2D46" type="Position2D" parent="."]
+[node name="Santiago" type="Position2D" parent="."]
 position = Vector2( -586, 375 )
 
-[node name="Position2D47" type="Position2D" parent="."]
+[node name="Lima" type="Position2D" parent="."]
 position = Vector2( -609, 241 )
 
-[node name="Position2D48" type="Position2D" parent="."]
+[node name="Bogota" type="Position2D" parent="."]
 position = Vector2( -557, 100 )
 
-[node name="Position2D49" type="Position2D" parent="."]
+[node name="Miami" type="Position2D" parent="."]
 position = Vector2( -549, -29 )
 
-[node name="Position2D50" type="Position2D" parent="."]
+[node name="MexicoCity" type="Position2D" parent="."]
 position = Vector2( -711, -6 )
 
-[node name="Position2D51" type="Position2D" parent="."]
+[node name="LosAngeles" type="Position2D" parent="."]
 position = Vector2( -845, -48 )
 
-[node name="Position2D52" type="Position2D" parent="."]
+[node name="Atlanta" type="Position2D" parent="."]
 position = Vector2( -639, -137 )
 
-[node name="Position2D53" type="Position2D" parent="."]
+[node name="Washington" type="Position2D" parent="."]
 position = Vector2( -492, -137 )
 
-[node name="Position2D54" type="Position2D" parent="."]
+[node name="NewYork" type="Position2D" parent="."]
 position = Vector2( -440, -213 )
 
-[node name="Position2D55" type="Position2D" parent="."]
+[node name="Montreal" type="Position2D" parent="."]
 position = Vector2( -551, -231 )
 
-[node name="Position2D56" type="Position2D" parent="."]
+[node name="SanFrancisco" type="Position2D" parent="."]
 position = Vector2( -880, -171 )
 
-[node name="Position2D57" type="Position2D" parent="."]
+[node name="Chicago" type="Position2D" parent="."]
 position = Vector2( -693, -226 )
